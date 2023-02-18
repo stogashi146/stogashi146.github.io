@@ -19,7 +19,7 @@
 - 猫が主人公の2Dランゲーム。
 - 縦画面、ワンタップ（ジャンプ）だけの簡単操作
 
-![My helpful screenshot](https://raw.githubusercontent.com/stogashi146/stogashi146.github.io/main/images/GekimuzuNeko/ss01.png)![My helpful screenshot](https://raw.githubusercontent.com/stogashi146/stogashi146.github.io/main/images/GekimuzuNeko/ss02.png)![My helpful screenshot](https://raw.githubusercontent.com/stogashi146/stogashi146.github.io/main/images/GekimuzuNeko/ss03.png)![My helpful screenshot](https://raw.githubusercontent.com/stogashi146/stogashi146.github.io/main/images/GekimuzuNeko/ss04.png)
+![My helpful screenshot](https://raw.githubusercontent.com/stogashi146/stogashi146.github.io/main/images/GekimuzuNeko/icon.png)
 
 
 ## 連絡先
