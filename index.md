@@ -19,7 +19,7 @@
 - 猫が主人公の2Dランゲーム。
 - 縦画面、ワンタップ（ジャンプ）だけの簡単操作
 
-![激ムズねこ](.\images\GekimuzuNeko\ss01.webp)![激ムズねこ](\images\GekimuzuNeko\ss02.webp)
+![激ムズねこ](.\images\GekimuzuNeko\ss01.webp)![激ムズねこ](images\GekimuzuNeko\ss02.webp)
 
 ## 連絡先
 
