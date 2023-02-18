@@ -14,12 +14,14 @@
 
 - ごく普通の家からの脱出を目指す３D脱出ゲーム
 
+![3DEscape Icon](https://raw.githubusercontent.com/stogashi146/stogashi146.github.io/main/images/3dEscape/icon.png)
+
 ### [激ムズねこ](https://apps.apple.com/us/app/%E6%BF%80%E3%83%A0%E3%82%BA%E3%81%AD%E3%81%93/id1671800808)
 
 - 猫が主人公の2Dランゲーム。
 - 縦画面、ワンタップ（ジャンプ）だけの簡単操作
 
-![My helpful screenshot](https://raw.githubusercontent.com/stogashi146/stogashi146.github.io/main/images/GekimuzuNeko/icon.png)
+![GekimuzuNeko Icon](https://raw.githubusercontent.com/stogashi146/stogashi146.github.io/main/images/GekimuzuNeko/icon.png)
 
 
 ## 連絡先
